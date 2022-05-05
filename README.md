@@ -1,6 +1,6 @@
 # Automação Cesar
 
-Desafio técnico para seleção para pessoa Engenheira de Testes composto por dois projetos automatizados em Ruby (Parte 2). 
+Testes Automatizados dos sites do Discourse e Cesar School
 
 ### Configurações e Ferramentas:
 

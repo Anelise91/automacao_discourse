@@ -1,7 +1,3 @@
-# Automação Cesar
-
-Testes Automatizados dos sites do Discourse e Cesar School
-
 ### Configurações e Ferramentas:
 
 Windows 10
